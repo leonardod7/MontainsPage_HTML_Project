@@ -11,11 +11,10 @@
    </p>
 </div>
 
+  
 <div>
-  <img width="1612" alt="">
+  <img width="1643" alt="Montanhas" src="https://github.com/leonardod7/MontainsPage_HTML_Project/assets/107505958/23e279f4-9682-4d31-b806-1871e9b3e529">
 </div>
-
-
 
 
 
