@@ -7,7 +7,7 @@
 
 <div>
   <p> Link do projeto
-    <a href=""> a página do Robotron </a>
+    <a href=""> Página de Visitas das Montanhas </a>
    </p>
 </div>
 
